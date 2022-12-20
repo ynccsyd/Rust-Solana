@@ -25,6 +25,15 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+![image](https://camo.githubusercontent.com/6ee581c67b9e0e99177c693489d0144cbc0f0c9309e91e8138abbccdd1f29b5f/68747470733a2f2f736f6c6465762e6170702f6173736574732f6d6f7669652d7265766965772d7074322d6275696c642d6465706c6f792e676966))
+![image](https://user-images.githubusercontent.com/109158340/208703285-70b88bee-8f1f-4f20-9195-a6b3aaa17497.png)
+
+![image](https://user-images.githubusercontent.com/109158340/208703221-e6404f84-b344-41c5-9052-aeaaea125fd2.png)
+
+![image](https://user-images.githubusercontent.com/109158340/208703160-b42ba713-11fb-46a2-a856-92bd64e4c21d.png)
+
+![image](https://user-images.githubusercontent.com/109158340/208703090-5b134732-a3b8-4a06-a124-0db751b84e3d.png)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
