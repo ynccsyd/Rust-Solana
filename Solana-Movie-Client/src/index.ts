@@ -91,7 +91,7 @@ async function main() {
     const connection = new web3.Connection(web3.clusterApiUrl('devnet'))
     await airdropSolIfNeeded(signer, connection)
     
-    const movieProgramId = new web3.PublicKey('Write your program Id from solana playground')
+    const movieProgramId = new web3.PublicKey('HCTA7nXnTmLFK62cresPUF5eBCmu1rpvguKSAVHxWchi')
     await sendTestMovieReview(signer, movieProgramId, connection)
 }
 

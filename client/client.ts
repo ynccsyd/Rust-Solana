@@ -1,5 +1,5 @@
 const programId = new web3.PublicKey(
-    "Write your program Id from solana playground"
+    "EvsH3QaKHuQHqE4WpYZSWkxATD5F64Zv4457DCfzCTs5"
   );
   
   async function sayHello(
