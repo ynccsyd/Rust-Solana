@@ -18,7 +18,7 @@ import {
 import * as web3 from "@solana/web3.js"
 import { useConnection, useWallet } from "@solana/wallet-adapter-react"
 
-const MOVIE_REVIEW_PROGRAM_ID = "HCzicUhRpxJwLd6kMPWRWdjihp9wQFE7L2D19ADXZcXn"
+const MOVIE_REVIEW_PROGRAM_ID = "4QPCBtQ1qSwTmUy9yrGZoqCjZPen8eCE2HcHtKeNWYj6"
 
 export const Form: FC = () => {
     const [title, setTitle] = useState("")
@@ -99,7 +99,7 @@ export const Form: FC = () => {
             <form onSubmit={handleSubmit}>
                 <FormControl isRequired>
                     <FormLabel color="gray.200">Movie Title</FormLabel>
-                    <Input
+                    <Input 
                         id="title"
                         color="gray.400"
                         onChange={(event) =>
