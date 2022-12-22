@@ -1,5 +1,5 @@
 const programId = new web3.PublicKey(
-    "EvsH3QaKHuQHqE4WpYZSWkxATD5F64Zv4457DCfzCTs5"
+    "REPLACE_WITH_YOUR_PROGRAM_ID"
   );
   
   async function sayHello(
