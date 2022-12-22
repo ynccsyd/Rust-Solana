@@ -8,7 +8,7 @@
     </div>
  
  ##  🛠  $\textcolor{gray}{Dependencies}$
-*  [Solana Playground](https://solana.com/tr/ecosystem/playground.
+*  [Solana Playground](https://solana.com/tr/ecosystem/playground).
 * If you need more details about this IDE, you can learn [here.](https://github.com/solana-playground/solana-playground)
 ---
 ##  🛠  $\textcolor{gray}{Let's\ start}$
