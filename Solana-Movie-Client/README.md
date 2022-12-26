@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/109158340/208644928-be088c76-3367-4ccc-b08f-13e6a1c2f25b.png)
 
-const movieProgramId = new web3.PublicKey('HCTA7nXnTmLFK62cresPUF5eBCmu1rpvguKSAVHxWchi')
+
 ![image](https://user-images.githubusercontent.com/109158340/208645494-402408b5-b699-4017-be4c-057f1845067b.png)
 
 
