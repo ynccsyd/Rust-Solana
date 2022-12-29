@@ -502,4 +502,26 @@ pub fn initialize_token_mint(program_id: &Pubkey, accounts: &[AccountInfo]) -> P
     Ok(())
 }
 
-
+// Inside processor.rs
+#[cfg(test)]
+mod tests {
+  use {
+    super::*,
+    assert_matches::*,
+    solana_program::{
+        instruction::{AccountMeta, Instruction},
+        system_program::ID as SYSTEM_PROGRAM_ID,
+    },
+    solana_program_test::*,
+    solana_sdk::{
+        signature::Signer,
+        transaction::Transaction,
+        sysvar::rent::ID as SYSVAR_RENT_ID
+    },
+    spl_associated_token_account::{
+        get_associated_token_address,
+        instruction::create_associated_token_account,
+    },
+    spl_token:: ID as TOKEN_PROGRAM_ID,
+  };
+}
